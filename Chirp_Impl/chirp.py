@@ -11,11 +11,6 @@ import numpy as np
 # new parameters to call the frequency span version.
 #
 # See http://en.wikipedia.org/wiki/Chirp for details on derivation.
-#
-# Mike Markowski, mike.ab3ap@gmail.com
-# Mar 4, 2015
-
-
 # chirp
 #
 # Generate a frequency sweep from low to high over time.
